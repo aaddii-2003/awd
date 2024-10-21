@@ -1,0 +1,14 @@
+C:\Users\manda\source\repos\addi_sub\addi_sub\bin\Debug\addi_sub.exe.config
+C:\Users\manda\source\repos\addi_sub\addi_sub\bin\Debug\addi_sub.exe
+C:\Users\manda\source\repos\addi_sub\addi_sub\bin\Debug\addi_sub.pdb
+C:\Users\manda\source\repos\addi_sub\addi_sub\obj\Debug\addi_sub.csproj.AssemblyReference.cache
+C:\Users\manda\source\repos\addi_sub\addi_sub\obj\Debug\addi_sub.csproj.CoreCompileInputs.cache
+C:\Users\manda\source\repos\addi_sub\addi_sub\obj\Debug\addi_sub.exe
+C:\Users\manda\source\repos\addi_sub\addi_sub\obj\Debug\addi_sub.pdb
+D:\awppractical\p1\addi_sub\addi_sub\bin\Debug\addi_sub.exe.config
+D:\awppractical\p1\addi_sub\addi_sub\bin\Debug\addi_sub.exe
+D:\awppractical\p1\addi_sub\addi_sub\bin\Debug\addi_sub.pdb
+D:\awppractical\p1\addi_sub\addi_sub\obj\Debug\addi_sub.csproj.AssemblyReference.cache
+D:\awppractical\p1\addi_sub\addi_sub\obj\Debug\addi_sub.csproj.CoreCompileInputs.cache
+D:\awppractical\p1\addi_sub\addi_sub\obj\Debug\addi_sub.exe
+D:\awppractical\p1\addi_sub\addi_sub\obj\Debug\addi_sub.pdb
